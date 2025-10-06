@@ -11,21 +11,13 @@ Each project emphasizes "clean, reproducible code" and demonstrates experience w
 | # | Project Title | Description | Key Techniques |
 |---|----------------|--------------|----------------|
 | 1 | Heart Attack Prediction System | Predicts cardiovascular risk from clinical data with interpretable models and feature importance analysis. | Logistic Regression, XGBoost |
-
 | 2 | CNN-Based Plant Disease Detection | Deep learning for image-based identification of crop diseases to support precision agriculture. | CNN, TensorFlow, Keras, Image Augmentation |
-
 | 3 | Sentiment Analysis with Transformers and LLMs | Sentiment classification and contextual text understanding using transformer-based models. | BERT, Llama, Hugging Face Transformers |
-
 | 4 | Evolutionary AI for Robotics and Optimization | Hybrid swarm intelligence algorithms applied to robotic motion, portfolio optimization, and vehicle routing. | Particle Swarm Optimization, Ant Colony Optimization, Genetic Algorithms |
-
 | 5 | Career Coaching AI and Job Market Analytics | Personal career advisor using job-posting data, YOLO-based logo recognition, and large language models for career path recommendations. | Web Scraping, NLP, LLMs, YOLOv8 |
-
 | 6 | 3D Scene Reconstruction via Neural Radiance Fields (NeRF) | Neural rendering pipeline for 3D scene reconstruction from multi-view images. | PyTorch3D, NeRF, Computer Vision |
-
 | 7 | IoT Weather Station in Oslo | Real-time weather monitoring and predictive analytics using streaming sensor data. | Arduino, Time Series Forecasting |
-
 | 8 | AI Image Generation with ControlNet and IP-Adapter | Fine-grained image generation and style transfer using advanced diffusion control models. | ControlNet, Stable Diffusion, IP-Adapter |
-
 | 9 | Context-Aware Banner Insertion for Sports Videos| AI-driven framework for dynamic, non-intrusive sponsorship banner placement in user-generated sports videos. | SlowFast R50, YOLOv8, RAFT-Small, SAM, Diffusion Models |
 
 ---
@@ -74,14 +66,23 @@ The methodology supports future deployment on Chall’s commercial video infrast
 ## Repository Structure
 MyPortfolio_Dungthuyvu/
 │
+
 ├── Project1_HeartAttackPrediction/
+
 ├── Project2_CNNPlantDisease/
+
 ├── Project3_SentimentAnalysis_LLMs/
+
 ├── Project4_EvolutionaryAI_Optimization/
+
 ├── Project5_CareerCoaching_JobAnalytics/
+
 ├── Project6_3DSceneReconstruction_NeRF/
+
 ├── Project7_IoTWeatherStation_Oslo/
+
 ├── Project8_ImageGeneration_ControlNet/
+
 └── Project9_BannerInsertion_Thesis/ 🔒 (Private)( can be asked for details via email Jorundungthuyvu@gmail.com
 
 ---
