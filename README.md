@@ -105,7 +105,7 @@ Project 9 remains private due to GDPR and partnership data confidentiality.
 
 ---
 
-⭐ *If you find these projects inspiring, feel free to star this repository or connect on LinkedIn! I am also open to opportunities for collaboration on personal projects in AI and data science, or looking to find team members for Kaggle  Grand Master competitions*
+⭐ *If you find these projects inspiring, feel free to star this repository or connect on LinkedIn! I am also open to opportunities for collaboration on personal projects in AI and data science, or looking to find team members for competition projects*
 
 
 
